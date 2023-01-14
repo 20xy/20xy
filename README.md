@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @20xy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+- I’m @20xy
+- 👀 I’m interested in CP
+- 🌱 I’m currently learning Business
+- 💞️ I’m looking to collaborate on AI and Web Projects
+- 📫 How to reach me here: [@20xy](mailto:20xy.atwork@gmail.com)
 
 <!---
 20xy/20xy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
